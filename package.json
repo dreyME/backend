@@ -1,0 +1,24 @@
+{
+  "name": "projetoestagio",
+  "version": "1.0.0",
+  "description": "primeiroProjeto",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreyME/ProjetoFDS.git"
+  },
+  "author": "José Andrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dreyME/ProjetoFDS/issues"
+  },
+  "homepage": "https://github.com/dreyME/ProjetoFDS#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.5.3"
+  }
+}
